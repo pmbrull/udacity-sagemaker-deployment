@@ -1,3 +1,5 @@
+> OBS: Code forked from Udacity's [Sagemaker Deployment](https://github.com/udacity/sagemaker-deployment). I will overwrite the Project directory with my solutions on the first project for the Machine Learning Engineer Nanodegree.
+
 # Machine Learning Deployment using AWS SageMaker
 
 Code and associated files 
